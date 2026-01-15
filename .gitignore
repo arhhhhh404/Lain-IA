@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# HuggingFace / Transformers
+.cache/
+hf_cache/
+offload/
+*.bin
+*.safetensors
+
+# LoRA / models
+LainChat/
+
+# OS / misc
+.DS_Store
