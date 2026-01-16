@@ -1,5 +1,5 @@
 # Lain IA
 
-[Where install the model](https://huggingface.co/arhhhhh404)
+[Where install the model](https://huggingface.co/arhhhhh404/LainIA)
 
 ![Capture d'écran](gui.png)
